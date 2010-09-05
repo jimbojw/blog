@@ -11,15 +11,14 @@
   <defs
      id="defs4" />
   <g
-     id="layer3">
+     id="layer4">
     <path
-       d="m 18.0625,11.125 a 7.0625,7 0 1 1 -14.125,0 7.0625,7 0 1 1 14.125,0 z"
-       transform="matrix(0.71887728,0,0,0.72529581,0.09234993,-0.0689)"
-       id="path2816-3"
-       style="fill:none;stroke:#999999;stroke-width:2.55630946;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       d="m 13,7.5 c 0,3 -2.5,5.5 -5.5,5.5 C 4.5,13 2,10.5 2,7.5 c 0,-3 2.5,-5.5 5.5,-5.5 3,0 5.5,2.5 5.5,5.5 z"
+       id="path2816-3-8"
+       style="fill:none;stroke:#999999;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <path
-       d="m 12,12 c 6,6 5,5 5,5"
-       id="path3603-8"
+       d="m 12,13 c 6,6 5,5 5,5"
+       id="path3603-8-0"
        style="fill:none;stroke:#999999;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
   </g>
 </svg>

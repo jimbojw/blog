@@ -175,7 +175,8 @@ body {
 .find button {
 	background: transparent;
 	border: none;
-	padding: 0.25em 0 0 0;
+	display: block;
+	float: right;
 }
 .find button span {
 	display: none;

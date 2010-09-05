@@ -34,6 +34,20 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3365"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3387"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -43,10 +57,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="29.9"
-     inkscape:cx="10"
+     inkscape:cx="8.2274247"
      inkscape:cy="10"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer4"
      showgrid="true"
      inkscape:window-width="1440"
      inkscape:window-height="851"
@@ -75,22 +89,16 @@
   </metadata>
   <g
      inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="Layer">
+     id="layer4"
+     inkscape:label="Layer#1">
     <path
-       sodipodi:type="arc"
-       style="fill:none;stroke:#999999;stroke-width:2.55630946;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="path2816-3"
-       sodipodi:cx="11"
-       sodipodi:cy="11.125"
-       sodipodi:rx="7.0625"
-       sodipodi:ry="7"
-       d="m 18.0625,11.125 a 7.0625,7 0 1 1 -14.125,0 7.0625,7 0 1 1 14.125,0 z"
-       transform="matrix(0.71887728,0,0,0.72529581,0.09234993,-0.0689)" />
+       style="fill:none;stroke:#999999;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 13.00016,7.5 c 0,3.037654 -2.462505,5.500161 -5.5001599,5.500161 C 4.4623456,13.000161 1.99984,10.537654 1.99984,7.5 c 0,-3.0376541 2.4625056,-5.5001594 5.5001601,-5.5001594 3.0376549,0 5.5001599,2.4625053 5.5001599,5.5001594 z"
+       id="path2816-3-8" />
     <path
        style="fill:none;stroke:#999999;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 12,12 c 6,6 5,5 5,5"
-       id="path3603-8"
+       d="m 12,13 c 6,6 5,5 5,5"
+       id="path3603-8-0"
        sodipodi:nodetypes="cc" />
   </g>
 </svg>
